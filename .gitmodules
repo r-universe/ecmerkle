@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "blavaan"]
 	path = blavaan
 	url = https://github.com/ecmerkle/blavaan
-	shallow = true
-	registered = true
 [submodule "nonnest2"]
 	path = nonnest2
 	url = https://github.com/cran/nonnest2
-	shallow = true
-	registered = true
 [submodule "scoring"]
 	path = scoring
 	url = https://github.com/cran/scoring
-	shallow = true
-	registered = true
 [submodule "smdata"]
 	path = smdata
 	url = https://github.com/cran/smdata
-	shallow = true
-	registered = true
