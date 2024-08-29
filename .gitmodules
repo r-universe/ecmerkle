@@ -5,9 +5,6 @@
 [submodule "blavaan"]
 	path = blavaan
 	url = https://github.com/ecmerkle/blavaan
-[submodule "nonnest2"]
-	path = nonnest2
-	url = https://github.com/cran/nonnest2
 [submodule "scoring"]
 	path = scoring
 	url = https://github.com/cran/scoring
