@@ -5,3 +5,7 @@
 [submodule "blavaan"]
 	path = blavaan
 	url = https://github.com/ecmerkle/blavaan
+[submodule "cmdstanr"]
+	path = cmdstanr
+	url = https://github.com/stan-dev/cmdstanr
+	registered = false
