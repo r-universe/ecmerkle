@@ -1,13 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/ecmerkle/ecmerkle.r-universe.dev
 	branch = HEAD
 [submodule "blavaan"]
 	path = blavaan
 	url = https://github.com/ecmerkle/blavaan
-[submodule "scoring"]
-	path = scoring
-	url = https://github.com/cran/scoring
-[submodule "smdata"]
-	path = smdata
-	url = https://github.com/cran/smdata
