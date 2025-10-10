@@ -1,0 +1,10 @@
+{
+  "id": 89442661,
+  "created_at": "2025-10-10T01:28:08.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["blavaan", "blavsam"]
+}
